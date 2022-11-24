@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nedamhs
+- 👋 Hi, I’m Neda
 - 👀 I’m interested in computer Science
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
