@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neda
 - 👀 I’m computer science major @ UCI
-- 🌱 I’m interested in Machine learning & AI 
+- 🌱 I’m interested in Data Science, Machine learning & AI 
 - 💞️ I’m proficient in C++/Java/Python/SQL/R
 - 📫 How to reach me: nmohsen1@uci.edu
 
