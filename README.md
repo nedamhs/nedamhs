@@ -1,6 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m Neda<br>👀 I’m computer science major @ UCI<br>🌱 I’m interested in Data Science, Machine learning & AI<br>📫 How to reach me: nmohsen1@uci.edu
+👋 Hi, I’m Neda<br>👀 I’m a computer science major @ UCI<br>🌱 I’m interested in Data Science, Machine learning & AI<br>📫 How to reach me: nmohsen1@uci.edu
 
+<!--
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
@@ -10,8 +11,8 @@
 
  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)
 
-
 ---
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
